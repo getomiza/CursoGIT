@@ -1,1 +1,2 @@
 Este es el fichero de texto de ejemplo para el curso de Manjeo y Uso de GIT #1ra Linea#
+Este es el fichero de texto de ejemplo para el curso de Manjeo y Uso de GIT #2da Linea#
