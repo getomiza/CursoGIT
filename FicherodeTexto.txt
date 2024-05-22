@@ -1,2 +1,3 @@
 Este es el fichero de texto de ejemplo para el curso de Manjeo y Uso de GIT #1ra Linea#
 Este es el fichero de texto de ejemplo para el curso de Manjeo y Uso de GIT #2da Linea#
+Esta es una linea de problemas en un posible merge del fichero de texto, por el conflicto que se va a producir#3ra Linea#
